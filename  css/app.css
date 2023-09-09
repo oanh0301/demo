@@ -1,0 +1,24 @@
+body{
+     background-color:blue;
+}
+p{
+    color:aquamarine;
+    font-size: 20px;
+    font-weight: normal;
+    font-family:'Pacifico', cursive; ;
+    line-height: 1.5;
+    text-align: center;
+    text-decoration: line-through;
+    text-transform: uppercase;
+    width: 500px;
+    float: left;
+    margin: 20px;
+    padding: 10px;
+    border: 1px soled yellowgreen
+}
+a{
+    text-decoration: none;
+}
+.thutuong{
+    background-color: aqua;
+}
